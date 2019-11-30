@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\Trabalho2_DANIEL\Exercicio_3\bin\Debug\netcoreapp3.0\Exercicio_3.exe
+C:\Users\Lenovo\Desktop\Trabalho2_DANIEL\Exercicio_3\bin\Debug\netcoreapp3.0\Exercicio_3.deps.json
+C:\Users\Lenovo\Desktop\Trabalho2_DANIEL\Exercicio_3\bin\Debug\netcoreapp3.0\Exercicio_3.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Trabalho2_DANIEL\Exercicio_3\bin\Debug\netcoreapp3.0\Exercicio_3.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Trabalho2_DANIEL\Exercicio_3\bin\Debug\netcoreapp3.0\Exercicio_3.dll
+C:\Users\Lenovo\Desktop\Trabalho2_DANIEL\Exercicio_3\bin\Debug\netcoreapp3.0\Exercicio_3.pdb
+C:\Users\Lenovo\Desktop\Trabalho2_DANIEL\Exercicio_3\obj\Debug\netcoreapp3.0\Exercicio_3.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Trabalho2_DANIEL\Exercicio_3\obj\Debug\netcoreapp3.0\Exercicio_3.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Trabalho2_DANIEL\Exercicio_3\obj\Debug\netcoreapp3.0\Exercicio_3.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Trabalho2_DANIEL\Exercicio_3\obj\Debug\netcoreapp3.0\Exercicio_3.dll
+C:\Users\Lenovo\Desktop\Trabalho2_DANIEL\Exercicio_3\obj\Debug\netcoreapp3.0\Exercicio_3.pdb

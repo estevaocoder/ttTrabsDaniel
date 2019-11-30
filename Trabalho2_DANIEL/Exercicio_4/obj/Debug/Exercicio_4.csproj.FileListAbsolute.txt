@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\Trabalho2_DANIEL\Exercicio_4\bin\Debug\Exercicio_4.exe.config
+C:\Users\Lenovo\Desktop\Trabalho2_DANIEL\Exercicio_4\bin\Debug\Exercicio_4.exe
+C:\Users\Lenovo\Desktop\Trabalho2_DANIEL\Exercicio_4\bin\Debug\Exercicio_4.pdb
+C:\Users\Lenovo\Desktop\Trabalho2_DANIEL\Exercicio_4\obj\Debug\Exercicio_4.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Trabalho2_DANIEL\Exercicio_4\obj\Debug\Exercicio_4.FrmPrincipal.resources
+C:\Users\Lenovo\Desktop\Trabalho2_DANIEL\Exercicio_4\obj\Debug\Exercicio_4.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Trabalho2_DANIEL\Exercicio_4\obj\Debug\Exercicio_4.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Trabalho2_DANIEL\Exercicio_4\obj\Debug\Exercicio_4.exe
+C:\Users\Lenovo\Desktop\Trabalho2_DANIEL\Exercicio_4\obj\Debug\Exercicio_4.pdb
+C:\Users\Lenovo\Desktop\Trabalho2_DANIEL\Exercicio_4\obj\Debug\Exercicio_4.fila.resources
+C:\Users\Lenovo\Desktop\Trabalho2_DANIEL\Exercicio_4\obj\Debug\Exercicio_4.pilha.resources
